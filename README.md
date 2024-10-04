@@ -1,1 +1,1 @@
-Preview this layout at https://ohkamanda.github.io/Simple-Grid-Layout/
+Preview: https://ohkamanda.github.io/Simple-Grid-Layout/
